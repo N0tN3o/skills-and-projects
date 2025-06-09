@@ -27,7 +27,7 @@ Here are the tools and frameworks I’ve been using and experimenting with:
 - Linear/Logistic Regression, XGBoost, KMeans, CNNs, LSTMs, MLPs, etc.
 
 ### Frameworks & Libraries
-- **Data Science**: Pandas, NumPy, scikit-learn, PyTorch
+- **Data Science**: Pandas, NumPy, scikit-learn, TensorFlow
 - **Visualization**: Matplotlib, Seaborn, Plotly, Power BI
 - **Web Apps & APIs**: Streamlit, Gradio, Flask, Shiny for Python
 - **Prototyping**: Tkinter, OpenCV, MediaPipe
