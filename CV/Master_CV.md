@@ -2,9 +2,7 @@
 
 # Personal Information
 
-**Name:** Vince Németh  
-**Phone:** \+36305584202 | \+31617481202  
-**Email:** [nemevinc@gmail.com](mailto:nemevinc@gmail.com)  
+**Name:** Vince Németh    
 **Website:** [nmthvince.xyz](https://nmthvince.xyz)  
 **LinkedIn:** [www.linkedin.com/in/vince-nemeth](http://www.linkedin.com/in/vince-n%C3%A9meth)
 
