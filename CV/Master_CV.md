@@ -91,8 +91,6 @@ Enthusiastic and detail-oriented BSc Data Science & AI student at Breda Universi
 
   [NotNeo \-](https://veriorm-studio.itch.io/) [itch.io](http://itch.io)
 
-  [Németh Vince \- GitHub](https://github.com/N0tN3o)
-
   # Interests
 
 * DIY tech projects, from home automation to game dev  
